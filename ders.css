@@ -1,0 +1,27 @@
+
+.box {
+	width: 1000px;
+	height: 1040px;
+	padding: 50px 50px;
+	margin: 50px;
+	border: 5px solid #999;
+	border-style: dashed;
+	background-image: url(img5.jpg);
+	text-align: center;
+	font-size: xx-large;
+	color: red;
+	
+
+}
+.ders{
+	width: 880px;
+	height: 995px;
+	padding: 50px 50px;
+	margin: 50px;
+	border: 5px solid #999;
+	border-style: dashed;
+	background-image: url(img4.jpg);
+	text-align: center;
+	font-size: xx-large;
+	color: red;
+}
